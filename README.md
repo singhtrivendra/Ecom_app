@@ -2,7 +2,7 @@
 
 A new Flutter project for an E-Commerce App.
 
-## 📱 Screenshots
+## 📱 Proof of work
   <table>
       <tr>
         <h3>OnBoarding Screen</h3>
