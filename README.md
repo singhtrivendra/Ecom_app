@@ -1,6 +1,6 @@
 # ecommerce_app
 
-A new Flutter project for an E-Commerce App.
+This Flutter-based e-commerce app provides a robust platform for users to browse products, add them to their cart, make secure purchases, and track orders. It incorporates Firebase for authentication, data storage, and notifications while ensuring a smooth and engaging user experience with animations, dark mode support, and multi-language localization.
 
 ## 📱 Proof of work
   <table>
