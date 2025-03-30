@@ -113,8 +113,3 @@ Open a pull request
 For any queries or support, feel free to reach out:
 ✉️ trivendrasingh0711@gmail.com
 
-## Apk For the project
-```
-https://drive.google.com/file/d/1GBMSHfnPyAepq5b4w8Q6uTB3fAUzLIIp/view?usp=sharing
-```
-
