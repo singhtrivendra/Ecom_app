@@ -41,7 +41,7 @@ This Flutter-based e-commerce app provides a robust platform for users to browse
 
 ---
 
-## 🚀 Features
+## Features
 - **User Authentication with firebase** (Login, Signup, Logout)  
 - **State Management** using **Riverpod** and **Provider**  
 - **Product Listing** with categories and filters  
@@ -59,7 +59,7 @@ This Flutter-based e-commerce app provides a robust platform for users to browse
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 - **Flutter** (Frontend)  
 - **Dart** (Programming Language)  
 - **Firebase** (Authentication, Firestore, Storage, FCM)  
@@ -73,7 +73,7 @@ This Flutter-based e-commerce app provides a robust platform for users to browse
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**  
 ```bash
@@ -88,7 +88,7 @@ cd ecommerce_app
 ```bash
 flutter pub get
 ```
-📚 Resources
+Resources
 A few resources to get you started if this is your first Flutter project:
 
 Lab: Write your first Flutter app
@@ -97,7 +97,7 @@ For help getting started with Flutter development, view the
 online documentation, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-🤝 Contributing
+ Contributing
 Contributions are welcome! To contribute:
 
 Fork the repository
@@ -106,7 +106,7 @@ Commit your changes (git commit -m "Add new feature")
 Push to the branch (git push origin feature/your-feature)
 Open a pull request
 
-📩 Contact
+ Contact
 For any queries or support, feel free to reach out:
-✉️ trivendrasingh0711@gmail.com
+✉ trivendrasingh0711@gmail.com
 
