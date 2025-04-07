@@ -2,7 +2,7 @@
 
 This Flutter-based e-commerce app provides a robust platform for users to browse products, add them to their cart, make secure purchases, and track orders. It incorporates Firebase for authentication, data storage, and notifications while ensuring a smooth and engaging user experience with animations, dark mode support, and multi-language localization.
 
-## 📱 Proof of work
+##  Proof of work
   <table>
       <tr>
         <h3>OnBoarding Screen</h3>
@@ -42,23 +42,20 @@ This Flutter-based e-commerce app provides a robust platform for users to browse
 ---
 
 ## 🚀 Features
-✅ **User Authentication** (Login, Signup, Logout)  
-✅ **State Management** using **Riverpod** and **Provider**  
-✅ **Product Listing** with categories and filters  
-✅ **Add to Cart** and **Remove from Cart**  
-✅ **Checkout Process** with multiple payment options  
-✅ **User Profile Management**  
-✅ **Order Tracking**  
-✅ **Firebase Integration** for data storage and authentication  
-✅ **Dark Mode & Light Mode** support  
-✅ **Animations** for smooth user experience  
-✅ **Secure Storage** using **FlutterSecureStorage**  
-✅ **Product Reviews and Ratings**  
-✅ **Wishlist Feature**  
-✅ **Image Upload** with Firebase Storage  
-✅ **Multi-Language Support**  
-✅ **Performance Optimizations** with Lazy Loading  
-✅ **Custom UI with Material 3 Design**  
+- **User Authentication with firebase** (Login, Signup, Logout)  
+- **State Management** using **Riverpod** and **Provider**  
+- **Product Listing** with categories and filters  
+- **Add to Cart** and **Remove from Cart**  
+- **User Profile Management**  
+- **Firebase Integration** for data storage and authentication  
+- **Dark Mode & Light Mode** support  
+- **Animations** for smooth user experience  
+- **Secure Storage** using **FlutterSecureStorage**  
+- **Product Reviews and Ratings**  
+- **Wishlist Feature**  
+- **Image Upload** with Firebase Storage  
+- **Performance Optimizations** with Lazy Loading  
+- **Custom UI with Material 3 Design**  
 
 ---
 
